@@ -1,0 +1,7 @@
+Download airports.csv from https://ourairports.com/data/airports.csv
+and save it as assets/airports.csv
+
+The file is ~8MB and includes every airport with its IATA code, name,
+municipality, country, and coordinates.
+
+wget https://davidmegginson.github.io/ourairports-data/airports.csv -O assets/airports.csv
